@@ -28,6 +28,28 @@ Lecture 03
 
 with [[file:code/pca.ipynb][code]]
 
+Lecture 04
+
+<2023-11-15 Wed 12:00-13:00>
+
+[[file:slides/non-linear_dimred.pdf][Dimensionality reduction: non-linear methods]]
+
+with [[file:code/mnist.ipynb][code]]
+
+Lecture 05
+
+<2023-11-16 Thu 10:00-11:00>
+
+[[file:slides/k-means.pdf][Clustering: k-means]]
+
+Lecture 06
+
+<2023-11-20 Mon 11:00-12:00>
+
+[[file:slides/hierarchical-clustering.pdf][Clustering: hierarchical clustering]]
+
+with [[file:code/clustering.ipynb][code]]
+
 * Reading 
 
 [[https://www.statlearning.com][Introduction to Statistical Learning]] by James, Witten, Hastie, Tibshirani, Taylor.
