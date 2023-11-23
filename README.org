@@ -50,6 +50,18 @@ Lecture 06
 
 with [[file:code/clustering.ipynb][code]]
 
+Lecture 07
+
+<2023-11-22 Wed 12:00-13:00>
+
+[[file:slides/clustering_gmm.pdf][Clustering: GMMs and spectral clustering]]
+
+Lecture 08
+
+<2023-11-23 Thu 10:00-11:00>
+
+[[file:slides/clustering_density.pdf][Clustering: graph-based and density-based clustering]]
+
 * Reading 
 
 [[https://www.statlearning.com][Introduction to Statistical Learning]] by James, Witten, Hastie, Tibshirani, Taylor.
