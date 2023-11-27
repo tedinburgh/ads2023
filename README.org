@@ -62,6 +62,12 @@ Lecture 08
 
 [[file:slides/clustering_density.pdf][Clustering: graph-based and density-based clustering]]
 
+Lecture 09
+
+<2023-11-27 Mon 11:00-12:00>
+
+[[file:slides/clustering_evaluation.pdf][Clustering evaluation, issues and outliers]]
+
 * Reading 
 
 [[https://www.statlearning.com][Introduction to Statistical Learning]] by James, Witten, Hastie, Tibshirani, Taylor.
